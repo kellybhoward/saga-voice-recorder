@@ -1,0 +1,25 @@
+{
+  "data": {
+    "action": {
+      "id": "1220",
+      "channel": {
+        "id": "83"
+      },
+      "createdAt": "2020-02-13T17:59:56.807423+00:00",
+      "creator": {
+        "id": "3",
+        "firstName": "Kevin",
+        "lastName": "Hylant",
+        "profilePhoto": "https://saga-media-storage.s3-us-west-2.amazonaws.com/static/images/saga-app-icon.png",
+        "thumbnail": "https://saga-media-storage.s3-us-west-2.amazonaws.com/static/images/saga-app-icon.png"
+      },
+      "actionType": "AS",
+      "actionInfo": {
+        "title": "The Office Ladies",
+        "length_ms": 3195000,
+        "media_url": "https://saga-media-storage-staging.s3-us-west-2.amazonaws.com/media/public/pp-1gQLK2ECxTWRzFEGXQWYa8pjX5IH4ZphrgtvpkU0xuGGNVTmhN.mp3",
+        "description": "The Office co-stars and best friends, Jenna Fischer and Angela Kinsey, are doing the ultimate The Office re-watch podcast for you. Each week, Jenna and Angela will break down an episode of The Office and give exclusive behind-the-scene stories that only two people who were there, can tell you."
+      }
+    }
+  }
+}
